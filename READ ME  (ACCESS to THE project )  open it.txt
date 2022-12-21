@@ -1,0 +1,27 @@
+
+for admin login
+
+username:bro
+password:admin
+
+
+
+
+for user login
+
+username :custom
+
+password:customer
+
+
+COMMENT:
+
+i ' m still developing this project.
+but i decided to share you my  work 
+because i don't want to be late 
+for seizing THE apportunity
+you are providing to us.
+
+jean pierre ishimwe
+
+thank you
